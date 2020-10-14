@@ -1,2 +1,2 @@
-# Simple-Info-App
+# Simple-Info-App 📲🧩
 This is Simple Informational App 🧾📌
