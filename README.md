@@ -1,6 +1,6 @@
 # Simple-Info-App 📲🧩
-*__This is Simple Informational App__*🧾📌
-*__Android App Development Project Using Android Studio__*🛢✌
+__*This is Simple Informational App*__ 🧾📌
+__*Android App Development Project Using Android Studio*__ 🛢✌
 
 # INTRO ⏳
 
