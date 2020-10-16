@@ -15,4 +15,4 @@ __*This is an Informative App Which Mainly Help to Dig Up Information of Local A
 
 # BUGS 😥
 
->  if there any known bugs found please let me know 😊
+>  __*if there any known bugs found please let me know*__ 😊
