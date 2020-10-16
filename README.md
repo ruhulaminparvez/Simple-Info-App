@@ -1,5 +1,5 @@
 # Simple-Info-App 📲🧩
-- [X] __*This is Simple Informative App*__ 🧾📌
+- [X] __*This is a Simple Informative App*__ 🧾📌
 - [X] __*Android App Development Project Using Android Studio*__ 🛢✌
 
 # INTRO ⏳
