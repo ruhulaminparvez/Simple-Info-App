@@ -2,11 +2,11 @@
 - [X] __*This is a Simple Informative App*__ 🧾📌
 - [X] __*Android App Development Project Using Android Studio*__ 🛢✌
 
-### INTRO ⏳
+### INTRODUCTION ⏳
 __*This is an Informative App Which Mainly Help to Dig Up Information of Local Area or Place*__ 
 
 
-### DEMO 🎞
+### DEMONSTRATION 🎞
 
 <p align="center">
   <img width="256" src="https://github.com/Ruhul12/Simple-Info-App/blob/main/BUIS.gif">
