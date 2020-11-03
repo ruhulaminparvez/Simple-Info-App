@@ -21,9 +21,9 @@ __*This is an Informative App Which Mainly Help to Dig Up Information of Local A
 * __*Adobe XD*__
     * __*IconFinder*__
 
-### Deployed Version 💉
+### Deployed Version 0.1 💉
 
-*version 1.0* 👉
+👉
 
 ### BUGS 😥
 
