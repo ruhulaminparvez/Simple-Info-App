@@ -27,6 +27,6 @@ __*This is an Informative App Which Mainly Help to Dig Up Information of Local A
 
 ### BUGS 😥
 
->  *If there any known bugs found, please let me know.
+> *If there any known bugs found, please let me know.*
 > *Please enjoy
-and feel free to share your opinion, constructive criticism, or comments about my work. Email: 👉 ruhulaminparvez007@gmail.com* 😊 Thank you!*
+and feel free to share your opinion, constructive criticism, or comments about my work. Email: 👉 ruhulaminparvez007@gmail.com 😊 Thank you!*
