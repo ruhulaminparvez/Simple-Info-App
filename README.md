@@ -23,7 +23,7 @@ __*This is an Informative App Which Mainly Help to Dig Up Information of Local A
 
 ### Deployed Version 0.1 💉
 
-👉
+👉 [Info App APK] 
 
 ### BUGS 😥
 
