@@ -8,7 +8,7 @@ __*This is an Informative App Which Mainly Help to Dig Up Information of Local A
 
 ### DEMONSTRATION 🎞
 
-<p align="center">
+<p align="left">
   <img width="256" src="https://github.com/Ruhul12/Simple-Info-App/blob/main/BUIS.gif">
 </p>
 
